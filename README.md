@@ -11,5 +11,5 @@ In the ML projects section (TODO: link) I explain papers I have written, project
 ## Opinions:
 In the Opinions section (TODO: link) I mainly post essays and opinion pieces on ethics and policy that I think are useful to share. For a more detailed overview of the purpose of this part of the blog see my 'What is the Opinions part about' '(TODO link) article.
 
-##### One last note:
+#### One last note:
 If you have any feedback regarding anything (i.e. layout, code or opinions) I would be happy if you told me. But please do it in a constructive manner. 
