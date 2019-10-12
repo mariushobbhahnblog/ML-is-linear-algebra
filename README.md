@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Marius Hobbhahn's Blog
 
-You can use the [editor on GitHub](https://github.com/mariushobbhahnblog/ML-is-linear-algebra/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+On this blog I write about projects related to ML and opinions about policies and ethics. If you are interested in more details regarding my career and life in general there is also an 'about me/CV' section. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Short overview of me: 
+I am currently doing my Masters in Machine Learning at the University of Tuebingen and am generally pretty hyped about the field while also trying to find ways in which AI can be deployed in save and fair manners. I am an Effective Altruist. I debate. I am very left leaning on social issues. My economic positions are hard to put on the left/right spectrum since I hold positions of both ends, e.g. I think more radical redistribution of wealth would be great, but markets could be applied in more areas than they currently are. If you want to know more about these positions and why I hold them I guess you will have to read my blog ;)
 
-### Markdown
+# Machine Learning Projects: 
+In the ML projects section (TODO: link) I explain papers I have written, projects I have completed and find worth talking about and essays regarding the topic of Machine Learning in general. For a more detailed overview of the purpose of that part of the blog see my What is the ML Projects part about(TODO link) article.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Opinions:
+In the Opinions section (TODO: link) I mainly post essays and opinion pieces on ethics and policy that I think are useful to share. For a more detailed overview of the purpose of this part of the blog see my 'What is the Opinions part about' '(TODO link) article.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mariushobbhahnblog/ML-is-linear-algebra/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# One last note:
+If you have any feedback regarding anything (i.e. layout, code or opinions) I would be happy if you told me. But please do it in a constructive manner. 
